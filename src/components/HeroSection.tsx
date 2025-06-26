@@ -43,17 +43,10 @@ export const HeroSection = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 1, delay: 0.2 }}
         >
-          SANTHOSH
+          SANTHOSH S
         </MotionText>
 
-        <MotionText
-          className="text-xl md:text-3xl lg:text-5xl font-orbitron font-bold text-iron-blue text-glow"
-          initial={{ opacity: 0, y: 50 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 1, delay: 0.4 }}
-        >
-          SHANMUGAM
-        </MotionText>
+
 
         <MotionDiv
           initial={{ opacity: 0, x: -50 }}

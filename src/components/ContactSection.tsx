@@ -81,7 +81,7 @@ export const ContactSection = () => {
                   </div>
                   <div className="flex flex-col items-start">
                     <span className="text-iron-gold font-bold">Email</span>
-                    <span className="text-iron-blue">santhosh.dev@example.com</span>
+                    <span className="text-iron-blue">santhosh525212@gmail.com</span>
                   </div>
                 </div>
 
@@ -91,7 +91,7 @@ export const ContactSection = () => {
                   </div>
                   <div className="flex flex-col items-start">
                     <span className="text-iron-gold font-bold">Phone</span>
-                    <span className="text-iron-blue">+1 (555) 123-4567</span>
+                    <span className="text-iron-blue">+91 8220305240</span>
                   </div>
                 </div>
 
@@ -101,7 +101,9 @@ export const ContactSection = () => {
                   </div>
                   <div className="flex flex-col items-start">
                     <span className="text-iron-gold font-bold">Location</span>
-                    <span className="text-iron-blue">San Francisco, CA</span>
+                    <span className="text-iron-blue">Coimbatore
+                      
+                    </span>
                   </div>
                 </div>
               </div>
